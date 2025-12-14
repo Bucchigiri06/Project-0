@@ -1,0 +1,7 @@
+{
+  "host": "localhost",
+  "user": "root",
+  "password": "suhas0041R",
+  "database": "network_scanner",
+  "port": 3306
+}
